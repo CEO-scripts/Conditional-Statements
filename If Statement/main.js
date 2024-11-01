@@ -6,5 +6,5 @@ sale = false
 
 //Putting a conditional Statement
 if(sale){
-  console.log('Time to buy!')
+  console.log('Time to buy!!')
 }
